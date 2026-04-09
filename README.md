@@ -46,18 +46,18 @@ The dataset contains transactional e-commerce data including:
 ## 📊 Key Analysis & Queries
 
 ### 1. Revenue by Category
-![Revenue by Category](images/E-Commerce-Sales-Project-Revenue-By-Category.png)
+![Revenue by Category](images/E-Commerce-Sales-Project-Revenue-By-Category.PNG)
 
 ### 2. Top Customers
-![Top Customers](images/E-Commerce-Sales-Project-Master-Dataset.png)
+![Top Customers](images/E-Commerce-Sales-Project-Master-Dataset.PNG)
 
 ### 3. Customer Lifetime Value (CLV)
-![CLV](images/E-Commerce-Sales-Project-CLV.png)
+![CLV](images/E-Commerce-Sales-Project-CLV.PNG)
 
 ---
 
 ## 📈 Dashboard
-![Dashboard](images/E-Commerce-Sales-Project-Dashboard.png)
+![Dashboard](images/E-Commerce-Sales-Project-Dashboard.PNG)
 
 ---
 
