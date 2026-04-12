@@ -49,10 +49,13 @@ The dataset contains transactional e-commerce data including:
 ![Revenue by Category](images/E-Commerce-Sales-Project-Revenue-By-Category.PNG)
 
 ### 2. Top Customers
-![Top Customers](images/E-Commerce-Sales-Project-Master-Dataset.PNG)
+![Top Customers](images/E-Commerce-Sales-Project-Revenue-By-Category.PNG)
 
 ### 3. Customer Lifetime Value (CLV)
 ![CLV](images/E-Commerce-Sales-Project-CLV.PNG)
+
+### 4. Master Dataset
+![Master Dataset](images/E-Commerce-Sales-Project-Master-Dataset.PNG)
 
 ---
 
