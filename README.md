@@ -39,7 +39,7 @@ The dataset contains transactional e-commerce data including:
 - Ensured data consistency for analysis
 
 📸 Example:
-![Remove Duplicates](images/E-Commerce-Sales-Project-Remove-Duplicates.png)
+![Remove Duplicates](images/E-Commerce-Sales-Project-Remove-Duplicates.PNG)
 
 ---
 
